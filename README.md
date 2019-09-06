@@ -29,3 +29,13 @@ cd frameworks/base/packages/FlyBackcar
 mm
 
 # 5.类说明
+BackcarService.java 监听摄像头是否初始化好，监听倒车的状态，发起停止倒车和开启倒车
+
+Backcar_GPIO.java 获取系统倒车节点的数据状态
+
+FlyBackcarUI.java 倒车影像的显示
+
+CameraSurfaceView.java 通过surfaceview来显示倒车的影像
+
+# 6.项目进度
+完成
