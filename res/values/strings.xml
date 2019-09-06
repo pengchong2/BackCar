@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BackCar</string>
+
+    <string name="backcar_warningtxt">请注意周围障碍物</string>
+</resources>

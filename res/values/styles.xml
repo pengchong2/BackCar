@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="MaterialTheme" parent="android:Theme.Material.NoActionBar.Fullscreen" >
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+</resources>
